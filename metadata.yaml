@@ -1,0 +1,31 @@
+_repo: Melusine--Ein-Liebesroman_32100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wassermann, Jakob
+    alias: Wassermann, Jacob
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '6236'
+    url: http://www.gutenberg.org/2009/agents/6236
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jakob_Wassermann
+    - http://de.wikipedia.org/wiki/Jakob_Wassermann
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32100'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 19th century'
+- !lcc 'PT'
+title: 'Melusine: Ein Liebesroman'
+url: http://www.gutenberg.org/ebooks/32100
